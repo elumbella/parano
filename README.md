@@ -10,3 +10,4 @@ This is useful for revisioning, especially reverse outlining.
 - current version breaks \paragraph{}, the paragraph name is not displayed.
 - current version does not work properly with csquotes' \blockcquote (and probably other blockquoting)
 - current version sometimes messes up the indentation
+- indentation options should be able to be modified through package options
